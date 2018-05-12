@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/861
     wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19182#La-Sinjorino-el-la-Maro
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2006-09-05'
 gutenberg_type: Text
